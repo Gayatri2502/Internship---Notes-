@@ -1,0 +1,36 @@
+
+Day – 1
+
+1.	Bitbucket Proficiency:
+
+o	Learned the fundamentals of Bitbucket version control system.
+o	Gained a comprehensive understanding of its working principles and best practices.
+o	Explored various Bitbucket options and functionalities for effective collaboration and code management.
+
+2.	Jira Software Familiarization:
+
+o	Conducted a thorough exploration of Jira Software, understanding its role in issue tracking and project management.
+o	Familiarized myself with all the available features and tools to efficiently manage tasks and projects.
+o	Acquired knowledge about task assignment, tracking progress, and reporting within Jira.
+
+3.	Cloning Application to Local Device:
+
+o	Successfully cloned the project repository from Bitbucket to my local development environment.
+o	Ensured the codebase integrity and verified that all necessary dependencies were present.
+
+4.	Branch Creation in Bitbucket:
+
+o	Mastered the process of creating branches in Bitbucket for implementing new features and isolating changes.
+o	Followed the standard branching conventions and naming conventions for better collaboration with the team.
+
+5.	APK Generation and Testing:
+o	Learned the steps to generate an APK from the project codebase.
+o	Conducted thorough testing to ensure the functionality of the application, verifying that it works as expected.
+
+6.	Commands to generate apk 
+
+flutter build apk --release --no-tree-shake-icons --split-per-abi
+flutter build apk --split-per-abi
+
+7.	Commands to generate bundle 
+flutter build appbundle  --no-tree-shake-icons
